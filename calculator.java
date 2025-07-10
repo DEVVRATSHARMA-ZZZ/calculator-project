@@ -5,7 +5,7 @@ import Methods.operations;
 public class calculator {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-
+    System.out.println("devvrat");
         operations O1 = new operations();
         System.out.println("enter the first number");
         O1.a = sc.nextDouble();
